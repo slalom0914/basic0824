@@ -7,4 +7,4 @@
 메인메소드! 누구세요.<br>
 인스턴스화는 뭐지?<br>
 
-<img src="/template1.png" width="700" height="380"/>
+<img src="/template1.png" width="auto" height="auto"/>
